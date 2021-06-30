@@ -1,0 +1,10 @@
+greeting:
+  first: "お世話になっております。"
+  night_apology: "夜分遅くに申し訳有りません。"
+  late_apology: "ご連絡が遅くなってしまい、申し訳有りません。"
+
+
+ornament:
+  grid:
+    char: "="
+    length: 50
